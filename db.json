@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "md faruk",
+      "gender": "male",
+      "contact": "0180000001",
+      "address": "dhaka",
+      "photUrl": "https://faruktf.com/jpg"
+    },
+    {
+      "id": 2,
+      "name": "md sojon",
+      "gender": "male",
+      "contact": "0180000002",
+      "address": "meherpur",
+      "photUrl": "https://sojon.com/jpg"
+    }
+  ]
+}
